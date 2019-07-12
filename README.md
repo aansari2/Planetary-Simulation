@@ -1,4 +1,5 @@
 # Planetary-Simulation
+![Preview](ansad_screenshot_medium_d0861fe1fd66cec19ae76b9e3b2fc4ae23a1e96b.jpg)
 
 Hit P to begin.
 
